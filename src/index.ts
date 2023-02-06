@@ -1,6 +1,6 @@
 /*
 Vantagens e desvantagens do S.O.L.I.D.
-
+ 
 Vantagens:
 - Código modular
 - Código reutilizável (D.R.Y - Don't repeat yourself)
